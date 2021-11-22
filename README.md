@@ -5,3 +5,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 Sup bro!
+
+I am testing out "pull" which is a combination of "fetch" and "merge".
